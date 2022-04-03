@@ -3,7 +3,7 @@
 ### First and Last Name: Angelos Tziallas
 ### University Registration Number: dpsd19128 
 ### GitHub Personal Profile: 123gians123  
-### Augmented Reality Personal Repository: xxx
+### Augmented Reality Personal Repository: 123gians123.github.io/augmented-reality/
 
 # Introduction
 
