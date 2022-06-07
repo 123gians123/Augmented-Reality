@@ -19,6 +19,7 @@ I placed the two more elements that were asked as an a-entity into the a-marker 
 
 # 3rd Deliverable 
 
+Βρήκα στοιχεία από δίαφορες σελίδες στο ιντερνετ για να διαμορφώσω τον κώδικα, έπειτα μπήκα στο sketchfub για να βρω το 3D μοντέλο του πύργου του Άιφελ και οι πληροφορίες πάρθηκαν από το site της Wikipedia
 
 # Conclusions
 
